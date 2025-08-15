@@ -104,7 +104,7 @@ To analyze and visualize trends in air quality across the United States over the
 * **Line Charts**: 5-year AQI category trend by region.
 * **Stacked Bar Charts**: Yearly breakdown of AQI categories.
 * **Heatmaps(Optional) or Scatter Plots with color coding**: Max AQI values across counties/CBSAs.
-* **Side-by-Side Bar Graphs**: County vs CBSA comparison for top metros.
+* **Side-by-Side Bar Graphs**: County vs CBSA comparison.
 * **Pie Charts**: Contribution of pollutants to Unhealthy days.
 * **Boxplots**: Distribution of AQI values across counties/CBSAs.
 
