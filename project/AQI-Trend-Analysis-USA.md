@@ -69,7 +69,7 @@ To analyze and visualize trends in air quality across the United States over the
 * Compare AQI trends between Metropolitan and Micropolitan areas. (reference [CBSAs Code Table](https://aqs.epa.gov/aqsweb/documents/codetables/cbsas.csv))
 * Pollutant distribution across zones.
 
-### D. Combined & Comparative Analysis
+### D. Combined & Comparative Analysis - Optional
 
 1. **Urban (CBSA) vs Rural (County)**
 
