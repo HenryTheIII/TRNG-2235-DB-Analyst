@@ -71,6 +71,8 @@ To analyze and visualize trends in air quality across the United States over the
 
 ### D. Combined & Comparative Analysis - Optional
 
+- [cbsa - county](https://www2.census.gov/programs-surveys/metro-micro/geographies/reference-files/2023/delineation-files/list1_2023.xlsx)
+
 1. **Urban (CBSA) vs Rural (County)**
 
    * Tag counties not mapped to CBSAs as rural.
